@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "berkelana dalam ruang dan mimpi",
+  "base_artist": "The Jansen",
+  "createdAt": "2026-03-31T17:13:30.566854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "berkelana dalam ruang dan mimpi",
+      "artist": "Song, The Jansen",
+      "has_synced": true,
+      "path": "select/01_berkelana_dalam_ruang_dan_mimpi_Song,_The_Jansen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "berkelana dalam ruang dan mimpi",
+      "artist": "The Jansen",
+      "has_synced": false,
+      "path": "select/02_berkelana_dalam_ruang_dan_mimpi_The_Jansen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "berkelana dalam ruang dan mimpi",
+      "artist": "The Jansen",
+      "has_synced": true,
+      "path": "select/03_berkelana_dalam_ruang_dan_mimpi_The_Jansen.lrc"
+    }
+  ]
+}
